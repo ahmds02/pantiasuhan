@@ -34,8 +34,8 @@ export const footerData = [
   {
     title: "Kontak",
     list: [
-      "Jalan Beringin Raya, No. 51 B, Kec. Beji, Kel. Beji, Kota Depok, Jawa Barat. 16421",
-      "0812 8133 6070",
+      "Sukoharjo,Jawa Tengah",
+      "081548285614",
       "pantipeduli@gmail.com",
     ],
   },
@@ -115,19 +115,19 @@ export const alasanDonasiData = [
 export const doaDonaturData = [
   {
     avatar: donaturPerempuan,
-    nama: "Lina Marinda",
+    nama: "Aditya Ardy Pratama",
     profesi: "Karyawan",
     doa: "Layanannya sangat baik. Semoga aplikasi ini dapat menjadi sarana yang bermanfaat bagi mereka yang ingin memberikan kasih sayang dan dukungan kepada panti asuhan, serta mempermudah pencarian panti asuhan yang membutuhkan bantuan.",
   },
   {
     avatar: donaturLaki,
-    nama: "Joko Wira",
+    nama: "Ahmad Satriadi Suryawan",
     profesi: "Mahasiswa",
     doa: "Tetaplah berkembang dan memberikan manfaat, aplikasi yang luar biasa ini. Semoga semakin banyak orang dapat terinspirasi untuk membantu panti asuhan melalui pencarian yang lebih mudah dan menyediakan dukungan yang mereka butuhkan.",
   },
   {
     avatar: donaturLaki,
-    nama: "Surya Januar",
+    nama: "Aditya Nur Rohim",
     profesi: "mahasiswa",
     doa: "Semoga terus memberikan pelayanan yang luar biasa dalam membantu orang-orang menemukan panti asuhan yang membutuhkan, sehingga kasih sayang dan dukungan dapat tersalurkan dengan lebih efisien dan berdampak positif.",
   },

@@ -64,7 +64,7 @@ export default function Beranda() {
                     </p>
                   </div>
                   <p>
-                    Bandung - Sabtu 2 Oktober 2023, melakukan “kolaborasi
+                    yogyakarta - Senin 8 Juli 2024, melakukan “kolaborasi
                     kebaikan” bersama sahabat yatim indonesia dalam rangka
                     menyalurkan program Yatim berprestasi.
                   </p>
